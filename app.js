@@ -71,6 +71,4 @@ app.listen(process.env.PORT, () => console.log(`Example app listening on port ${
 
 
 
-// API KEY = ef22077810f9b99d136abd577b1720a9-us12
-// list id = 07f42fc419
 
